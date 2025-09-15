@@ -1,4 +1,4 @@
-package Exercise002;
+package Exercise_002;
 
 public class Printf {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Exercise002;
+package Exercise_002;
 
 public class Arthmetic {
     public static void main(String[] args) {

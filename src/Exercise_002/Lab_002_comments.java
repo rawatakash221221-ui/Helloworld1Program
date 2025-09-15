@@ -1,4 +1,4 @@
-package Exercise002;
+package Exercise_002;
 public class Lab_002_comments {
     public static void main(String[] args) {
         // This is my First comment
