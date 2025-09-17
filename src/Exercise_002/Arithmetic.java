@@ -1,6 +1,6 @@
 package Exercise_002;
 
-public class Arthmetic {
+public class Arithmetic {
     public static void main(String[] args) {
 
 
